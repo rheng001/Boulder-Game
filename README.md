@@ -6,7 +6,7 @@ UCR EE/CS-120B Custom Lab Project Final
 Project Demonstration Video:
 --------
 
-[![Demo Link](http://imgur.com/oIpXLmW)](https://youtu.be/23UyYQ2WNos?t=1 "Demo Link")
+[![Demo Link](http://i.imgur.com/oIpXLmW.jpg)](https://youtu.be/23UyYQ2WNos?t=1 "Demo Link")
 
 ----------
 High Level Description:
