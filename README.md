@@ -3,13 +3,13 @@ UCR EE/CS-120B Custom Lab Project Final
 ------------
 
 ------
-Project Demonstration Video:
+Project Demonstration Video
 --------
 
 [![Demo Link](http://i.imgur.com/oIpXLmW.jpg)](https://youtu.be/23UyYQ2WNos?t=1 "Demo Link")
 
 ----------
-High Level Description:
+High Level Description
 -----
 
 The goal of the game is to outlast your opponent by dodging incoming obstacles for as long as possible without dying. Each player starts off with three lives, each time a player gets hit they can lose either one or two lives, some obstacles hit harder than others. Points are accumulated for each player for as long as they survive. As time progresses, a player’s power up meter will increase, at max meter, you can use a ability. The player who outlives their opponent wins the game.
