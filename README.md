@@ -3,10 +3,10 @@ UCR EE/CS-120B Custom Lab Project Final
 ------------
 
 ------
-Project Demmonstration Video:
+Project Demonstration Video:
 --------
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Demo Link](http://imgur.com/oIpXLmW)](https://youtu.be/23UyYQ2WNos?t=1 "Demo Link")
 
 ----------
 High Level Description:
