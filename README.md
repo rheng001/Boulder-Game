@@ -1,5 +1,4 @@
 UCR EE/CS-120B Custom Lab Project Final
----
 
 ------------
 High Level Description:
