@@ -46,33 +46,33 @@ Technologies/Components
 Source Files
 -----
 
-**Player1LCD.c**
+*   **Player1LCD.c**
 
-Contains LCD code and other components for player 1.
+    * Contains LCD code and other components for player 1.
 
-**Player2LCD.c**
+*   **Player2LCD.c**
 
-Contains LCD code and other components for player 2.
+    * Contains LCD code and other components for player 2.
 
-**PlayerMatrix.c**
+*   **PlayerMatrix.c**
 
-Controls each player’s 8x8 Matrix display which controls the gameplay.
+    * Controls each player’s 8x8 Matrix display which controls the gameplay.
 
-**MusicCode.c**
+*   **MusicCode.c**
 
-Controls music that plays only during gameplay.
+    * Controls music that plays only during gameplay.
 
-**io.c**
+*   **io.c**
 
-Contains functions to control our LCD. Supplied from lab.
+    * Contains functions to control our LCD. Supplied from lab.
 
-**io.h**
+*   **io.h**
 
-Contains function declaration for LCD functions. Supplied from lab.
+    * Contains function declaration for LCD functions. Supplied from lab.
 
-**usartATmega1284.h**
+*   **usartATmega1284.h**
 
-Contains USART functions for communicating between two Atmega1284 microcontrollers. Supplied from lab.
+    * Contains USART functions for communicating between two Atmega1284 microcontrollers. Supplied from lab.
 
 -----
 Bugs
