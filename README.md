@@ -26,7 +26,7 @@ You control a red dot which acts as your player. The controls for the game is as
 *   **1** - Move Right
 *   **D** - Start Game
 *  **#** - Reset Game
-*   \ * \ - Use Power up
+*   * - Use Power up
 
 As time progresses, your power bar will fill up incrementally until it reaches max. If you press your power up while the meter is full, you are able to clear all obstacles presently on your screen. When each player runs out of lives the game will automatically stop and clear everything and display a message of who won the game. Each player get reset the game by pressing the reset button.
 
